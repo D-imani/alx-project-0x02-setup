@@ -1,4 +1,5 @@
 //Contains the exports
-export interface List{
-    
+export interface CardProps{
+    title: string;
+    content : string;
 }
