@@ -1,5 +1,5 @@
 import React from "react";
-import {type ButtonProps } from "@/interfaces";
+import { ButtonProps } from "@/interfaces";
 
 const sizeClasses = {
   small: "px-3 py-1 text-sm",
