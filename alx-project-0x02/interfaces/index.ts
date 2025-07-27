@@ -11,3 +11,9 @@ export interface ButtonProps {
   onClick?: () => void;
   className?: string; // Optional for extra styling
 }
+
+export interface PostProps {
+  title: string;
+  content: string;
+  userId: number;
+}
